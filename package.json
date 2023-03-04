@@ -8,7 +8,8 @@
     "stop": "pm2 stop bootstrap",
     "killall": "pm2 kill",
     "list": "pm2 list",
-    "log": "pm2 monit"
+    "log": "pm2 monit",
+    "dev": "./bootstrap.sh"
   },
   "keywords": [],
   "author": "",
